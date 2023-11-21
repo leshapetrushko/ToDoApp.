@@ -5,17 +5,17 @@
     let items = [
         {
             id: 1,
-            text: 'Купить хлеб',
+            text: 'Сделать дз',
             status: false
         }, 
         {
             id: 2,
-            text: 'Купить хлеб 2',
+            text: 'Купить хлеб и молоко',
             status: true
         },
         {
             id: 3,
-            text: 'Купить хлеб 3',
+            text: 'Убраться в комнате',
             status: false
         }  
     ];
